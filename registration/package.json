@@ -1,0 +1,11 @@
+{
+  "name": "registration",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AWS Lambda function with Node.js",
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.658.1",
+    "@aws-sdk/client-dynamodb": "^3.658.1",
+    "uuid": "^10.0.0"
+  }
+}
